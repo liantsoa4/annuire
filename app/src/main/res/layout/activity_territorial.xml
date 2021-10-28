@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".territorialActivity"
+    android:background="@color/light_sky">
+
+    <TextView
+        android:layout_gravity="center"
+        android:id="@+id/tana"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cirgn_antananarivo"
+        android:textColor="@color/blue_orchid"
+        android:textSize="20dp"
+        android:layout_marginTop="100dp"/>
+
+    <Spinner
+        android:id="@+id/spinnertana"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp" />
+
+    <TextView
+        android:id="@+id/fianarantsoa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cirgn_fianarantsoa"
+        android:textColor="@color/blue_orchid"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+
+    <Spinner
+        android:id="@+id/spinnerfianarantsoa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"/>
+
+    <TextView
+        android:id="@+id/antsiranana"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cirgn_fianarantsoa"
+        android:textColor="@color/blue_orchid"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+    <Spinner
+        android:id="@+id/spinnerantsiranana"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"/>
+
+    <TextView
+        android:id="@+id/mahajanga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cirgn_mahajanga"
+        android:textColor="@color/blue_orchid"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+    <Spinner
+        android:id="@+id/spinnermahajanga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"/>
+
+    <TextView
+        android:id="@+id/toamasina"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cirgn_toamasina"
+        android:textColor="@color/blue_orchid"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+    <Spinner
+        android:id="@+id/spinnertoamasina"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"/>
+
+    <TextView
+        android:id="@+id/toliara"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cirgn_toaliara"
+        android:textColor="@color/blue_orchid"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+    <Spinner
+        android:id="@+id/spinnertoliara"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"/>
+</LinearLayout>

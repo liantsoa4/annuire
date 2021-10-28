@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.annuaire">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icone"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icone_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Annuaire">
+        <activity
+            android:name=".gpt_itasy_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_bongolava_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_vakinakaratra_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_analamanga_activity"
+            android:exported="true" />
+        <activity
+            android:name=".cdt_cirgn_tana_activity"
+            android:exported="true" />
+        <activity
+            android:name=".cegn_activity"
+            android:exported="true" />
+        <activity
+            android:name=".dt_activity"
+            android:exported="true" />
+        <activity
+            android:name=".dsr_activity"
+            android:exported="true" />
+        <activity
+            android:name=".dsit_activity"
+            android:exported="true" />
+        <activity
+            android:name=".dgp_activity"
+            android:exported="true" />
+        <activity
+            android:name=".dqg_activity"
+            android:exported="true" />
+        <activity
+            android:name=".doe_activity"
+            android:exported="true" />
+        <activity
+            android:name=".dpj"
+            android:exported="true" />
+        <activity
+            android:name=".dli_activity"
+            android:exported="true" />
+        <activity
+            android:name=".comcab_activity"
+            android:exported="true" />
+        <activity
+            android:name=".drh"
+            android:exported="true" />
+        <activity
+            android:name=".dpse"
+            android:exported="true" />
+        <activity
+            android:name=".daf_activity"
+            android:exported="true" />
+        <activity
+            android:name=".dgsr_activity"
+            android:exported="true" />
+        <activity
+            android:name=".cogas_activity"
+            android:exported="true" />
+        <activity
+            android:name=".cab_activity"
+            android:exported="true" />
+        <activity
+            android:name=".acceuilActivity"
+            android:exported="true" />
+        <activity
+            android:name=".mobileActivity"
+            android:exported="true" />
+        <activity
+            android:name=".territorialActivity"
+            android:exported="true" />
+        <activity
+            android:name=".directionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".staffActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/menu" />
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

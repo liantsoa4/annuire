@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">annuaire</string>
+    <string name="annuaire_de_la_gendarmerie">Annuaire de la gendarmerie</string>
+    <string name="comcab">COMCAB</string>
+    <string name="dli">DLI</string>
+    <string name="dpj">DPJ</string>
+    <string name="doe">DOE</string>
+    <string name="dqg">DQG</string>
+    <string name="dgp">DGP</string>
+    <string name="dsit">DSIT</string>
+    <string name="cegn">CEGN</string>
+    <string name="cirgn_antananarivo">CIRGN Antananarivo</string>
+    <string name="cirgn_antsiranana">CIRGN Antsiranana</string>
+    <string name="cirgn_mahajanga">CIRGN Mahajanga</string>
+    <string name="cirgn_fianarantsoa">CIRGN Fianarantsoa</string>
+    <string name="cirgn_toamasina">CIRGN Toamasina</string>
+    <string name="cirgn_toaliara">CIRGN Toaliara</string>
+    <string name="fign">FIGN</string>
+    <string name="cab">CAB</string>
+    <string name="cogas">COGAS</string>
+    <string name="dgsr">DGSR</string>
+    <string name="daf">DAF</string>
+    <string name="dpse">DPSE</string>
+    <string name="drh">DRH</string>
+    <string name="paramètre">paramètre</string>
+    <string name="actualiser">actualiser</string>
+    <string name="search">search</string>
+    <string name="mobile">MOBILE</string>
+    <string name="territorial">TERRITORIAL</string>
+    <string name="direction">DIRECTION</string>
+    <string name="staff">STAFF</string>
+    <string name="cirgn">CIRGN</string>
+
+</resources>
