@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/drawable-anydpi/ic_antsiranana.xml" value="0.2703125" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/drawable-anydpi/ic_mahajanga.xml" value="0.1453125" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/drawable/search.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/drawable/style_spinnerantsiranana.xml" value="0.2703125" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/drawable/style_spinnerfianarantsoa.xml" value="0.2703125" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/drawable/style_spinnermahajanga.xml" value="0.2703125" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/drawable/style_spinnertana.xml" value="0.2703125" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/drawable/style_spinnertoamasina.xml" value="0.2703125" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/drawable/style_spinnertoliara.xml" value="0.2703125" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_acceuil.xml" value="0.1" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_cab.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_cdt_cirgn_antananarivo.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_cdt_cirgn_antsiranana.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_cdt_cirgn_fianarantsoa.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_cdt_cirgn_mahajanga.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_cdt_cirgn_tana.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_cdt_cirgn_toamasina.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_cdt_cirgn_toliara.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_cegn.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_cogas.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_comcab.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_daf.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_dgp.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_dgsr.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_direction.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_dli.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_doe.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_dpj.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_dpse.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_dqg.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_drh.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_dsit.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_dsr.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_dt.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_alaotra_mangoro.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_amoron_mania.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_analamanga.xml" value="0.134375" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_analanjirofo.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_androy.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_anosy.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_atsimo_andrefana.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_atsimo_atsinanana.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_atsinanana.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_betsiboka.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_boeny.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_bongolava.xml" value="0.134375" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_diana.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_hautematsiatra.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_ihorombe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_itasy.xml" value="0.134375" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_melaky.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_menabe.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_sava.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_sofia.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_vafi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_gpt_vakinakaratra.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_list_fign.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_mobile.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_staff.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_territorial.xml" value="0.1" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/activity_type_staff.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/grid_item_layout.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/item.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/menu.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/single_item.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/layout/style_spinner.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/menu/context.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/menu/contextMenu.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/menu/contextmenu.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/menu/main_menu.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/menu/menu.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Liantsoa/AndroidStudioProjects/annuaire/app/src/main/res/xml/menu.xml" value="0.12760416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

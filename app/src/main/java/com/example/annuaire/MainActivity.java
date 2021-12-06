@@ -8,8 +8,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.Button;
 import android.widget.Toast;
 
 
@@ -51,37 +49,25 @@ public class MainActivity extends AppCompatActivity {
         mobile = findViewById(R.id.mobile);
 
 
-        staff.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(), staffActivity.class);
-                startActivity(i);
+        staff.setOnClickListener(view -> {
+            Intent i = new Intent(getApplicationContext(), staffActivity.class);
+            startActivity(i);
 
-            }
         });
-        direction.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(), directionActivity.class);
-                startActivity(i);
+        direction.setOnClickListener(view -> {
+            Intent i = new Intent(getApplicationContext(), directionActivity.class);
+            startActivity(i);
 
-            }
         });
-        territorial.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(), territorialActivity.class);
-                startActivity(i);
+        territorial.setOnClickListener(view -> {
+            Intent i = new Intent(getApplicationContext(), territorialActivity.class);
+            startActivity(i);
 
-            }
         });
-        mobile.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(), mobileActivity.class);
-                startActivity(i);
+        mobile.setOnClickListener(view -> {
+            Intent i = new Intent(getApplicationContext(), mobileActivity.class);
+            startActivity(i);
 
-            }
         });
 
 

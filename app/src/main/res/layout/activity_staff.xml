@@ -9,43 +9,43 @@
 
     <Button
         android:id="@+id/CAB"
-        android:layout_width="100dp"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:text="@string/cab"
         android:layout_marginTop="150dp"
-        android:layout_gravity="center"/>
+        android:layout_gravity="center" />
 
     <Button
         android:id="@+id/COGAS"
-        android:layout_width="100dp"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:text="@string/cogas"
         android:layout_gravity="center"/>
 
     <Button
         android:id="@+id/DGSR"
-        android:layout_width="100dp"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:text="@string/dgsr"
         android:layout_gravity="center"/>
 
     <Button
         android:id="@+id/DAF"
-        android:layout_width="100dp"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:text="@string/daf"
         android:layout_gravity="center"/>
 
     <Button
         android:id="@+id/DPSE"
-        android:layout_width="100dp"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:text="@string/dpse"
         android:layout_gravity="center"/>
 
     <Button
         android:id="@+id/DRH"
-        android:layout_width="100dp"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:text="@string/drh"
         android:layout_gravity="center"/>

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".cdt_cirgn_tana_activity">
+    tools:context=".gpt_sava_activity">
 
     <ListView
         android:id="@+id/listView"

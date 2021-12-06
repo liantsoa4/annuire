@@ -3,7 +3,6 @@ package com.example.annuaire;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.view.Menu;
 
 public class acceuilActivity extends AppCompatActivity {
 

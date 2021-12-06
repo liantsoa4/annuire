@@ -10,6 +10,75 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Annuaire">
         <activity
+            android:name=".gpt_menabe_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_anosy_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_androy_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_atsimoAndrefana_activity"
+            android:exported="true" />
+        <activity
+            android:name=".cdt_cirgn_toliara_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_alaotraMangoro_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_analanjirofo_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_atsinanana_activity"
+            android:exported="true" />
+        <activity
+            android:name=".cdt_cirgn_toamasina_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_sofia_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_betsiboka_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_boeny_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_melaky_activity"
+            android:exported="true" />
+        <activity
+            android:name=".cdt_cirgn_mahajanga_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_diana_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_sava_activity"
+            android:exported="true" />
+        <activity
+            android:name=".cdt_cirgn_antsiranana_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_amoronMania_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_ihorombe_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_vafi_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_atsimoAtsinanana_activity"
+            android:exported="true" />
+        <activity
+            android:name=".gpt_hautematsiatraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".cdt_cirgn_fianarantsoaActivity"
+            android:exported="true" />
+        <activity
             android:name=".gpt_itasy_activity"
             android:exported="true" />
         <activity

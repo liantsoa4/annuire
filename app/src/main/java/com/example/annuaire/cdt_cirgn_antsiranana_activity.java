@@ -8,14 +8,13 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-public class cdt_cirgn_tana_activity extends AppCompatActivity {
+public class cdt_cirgn_antsiranana_activity extends AppCompatActivity {
     ListView listView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cdt_cirgn_tana);
-
+        setContentView(R.layout.activity_cdt_cirgn_antsiranana);
         listView = findViewById(R.id.listView);
 
         ArrayList<String> arrayList= new ArrayList<>();
